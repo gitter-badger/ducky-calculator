@@ -1,5 +1,7 @@
 # Ducky
 
+[![Join the chat at https://gitter.im/ducky-calculator/community](https://badges.gitter.im/ducky-calculator/community.svg)](https://gitter.im/ducky-calculator/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Proyecto ejemplo para enseñar las diferentes partes de contribuir al OSS.
 
 Ducky es una calculadora que te permite realizar muchas cosas, desde operaciones aritméticas hasta cálculo.
